@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-check out https://www.studio-virtu.fr
+check out [https://www.studio-virtu.fr]Studio Virtu !
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
