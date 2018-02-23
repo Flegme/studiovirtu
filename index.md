@@ -25,8 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Looking for a French Web Agency ?
 
-check out [Studio Virtu](https://www.studio-virtu.fr) !
+Check out [Studio Virtu](https://www.studio-virtu.fr) !
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
